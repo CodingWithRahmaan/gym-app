@@ -271,7 +271,7 @@ loadingStyles.textContent = `
     }
     
     body:not(.loaded)::after {
-        content: 'Zenovate GYM';
+        content: 'Tricore Fitness GYM';
         position: fixed;
         top: 50%;
         left: 50%;

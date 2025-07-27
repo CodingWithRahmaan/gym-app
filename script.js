@@ -280,7 +280,7 @@ loadingStyles.textContent = `
         font-size: 2rem;
         font-weight: bold;
         z-index: 10001;
-        animation: pulse 1.5s infinite;
+        animation: pulse 2s infinite;
     }
     
     @keyframes pulse {
